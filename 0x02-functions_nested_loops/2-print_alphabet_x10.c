@@ -15,6 +15,6 @@ for (c = 'a'; c <= 'z'; c++)
 _putchar(c);
 }
 /* using ASCII values in the code above*/
-_putchar('\n');:
+_putchar('\n');
 }
 }
